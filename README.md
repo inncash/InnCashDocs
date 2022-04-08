@@ -1,4 +1,4 @@
-<p align="center"><a href="https://inn.cash/" target="_blank"><img src="https://sistema.inn.cash/img/cashflow-logo-horizontal-dark.ac78c224.webp" width="400"></a></p>
+<p align="center"><a href="https://inn.cash/" target="_blank"><img src="https://app.inn.cash/img/inncash-logo.00686525.webp" width="400"></a></p>
 
 ## Sobre o InnCash
 
